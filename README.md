@@ -1,6 +1,4 @@
 # CMD-approach-to-PROXY-SVARs
-
-================================================================================
 REPLICATION PACKAGE: Proxy-SVAR Identification of two monetary policy shocks 
 using minimum distance estimation procedure
 Author: Luca Marchesi, Luca Orlando
